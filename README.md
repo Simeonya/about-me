@@ -1,2 +1,4 @@
-# about-me
-About me page from simeonya.me
+# About Me
+
+Welcome to my About Me page on GitHub!
+I can't claim to have hand-coded every aspect of this page.
